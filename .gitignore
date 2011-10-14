@@ -7,3 +7,13 @@ project/plugins/lib_managed
 project/plugins/src_managed
 project/plugins/target
 project/plugins/project/build.properties
+
+jersey-scala_2.9.1.iws
+
+jersey-scala_2.9.1.ipr
+
+jersey-scala_2.9.1.iml
+
+.gitignore
+
+pom.xml
